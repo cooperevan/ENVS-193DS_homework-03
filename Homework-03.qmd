@@ -2,6 +2,8 @@
 title: "Homework 3"
 format: html
 editor: visual
+name: Evan Cooper
+date: 05/28/25
 ---
 
 Git repository: <https://github.com/cooperevan/ENVS-193DS_homework-03.git>
