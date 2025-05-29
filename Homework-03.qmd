@@ -1,14 +1,12 @@
 ---
-title: "hw3"
-format: pdf
+title: "Homework 3"
+format: html
 editor: visual
 ---
 
-# Homework 3 yay
-
 Git repository: <https://github.com/cooperevan/ENVS-193DS_homework-03.git>
 
-```{r, read in data, message=FALSE}
+```{r, read in data}
 library(tidyverse)
 library(here)
 library(gt)
