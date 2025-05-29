@@ -157,9 +157,15 @@ An artist statement gives the audience context to understand your work. For each
 
 -   the influences (what did techniques/artists/etc. did you find influential in creating your work?)
 
+Influences for me was Jill Peltos paintings which combine data and beautiful visualizations that represent the real world applications. I also gathered influence from the website "from Data to Viz" which helped me find a way to express the data in a visually pleasing format.
+
 -   the form of your work (written code, watercolor, oil painting, etc.)
 
+The form of the work is written in code under c. make a draft of your visualization.
+
 -   your process (how did you create your work?)
+
+I created my work through R studio, and view the hills as elevation gains signifying the difficulty of the work, as you would on strava or any app tracking your runs.
 
 ## **Problem 3. Statistical critique**
 
